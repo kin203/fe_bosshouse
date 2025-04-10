@@ -1,0 +1,90 @@
+.cta {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.cta span {
+    letter-spacing: 4px;
+    font-weight: 700;
+    font-size: 18px;
+    padding-right: 15px;
+    text-transform: uppercase;
+}
+
+.cta svg {
+    transform: translateX(-8px);
+    transition: all 0.3s ease;
+}
+
+.cta:hover svg {
+    transform: translateX(0);
+}
+
+.cta:active svg {
+    transform: scale(0.9);
+    -webkit-transform: ;
+    -moz-transform: ;
+    -ms-transform: ;
+    -o-transform: ;
+}
+
+.hover-underline-animation {
+    position: relative;
+    color: black;
+}
+
+.hover-underline-animation:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #000000;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+}
+
+.cta:hover .hover-underline-animation:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+@keyframes arrow-move {
+    0% {
+        transform: translateX(-8px);
+    }
+
+    50% {
+        transform: translateX(8px);
+    }
+
+    100% {
+        transform: translateX(-8px);
+    }
+}
+
+.cta svg {
+    animation: arrow-move 2s infinite;
+}
+
+
+@media (max-width: 768px) {
+    .cta span {
+        color: white;
+    }
+
+    .cta svg {
+        fill: white;
+    }
+
+    .hover-underline-animation {
+        color: white;
+    }
+
+    .hover-underline-animation:after {
+        background-color: white;
+    }
+}

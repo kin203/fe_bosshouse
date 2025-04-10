@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "name": "Váy phối màu classic",
+      "price": 200000,
+      "discountedPrice": 150000,
+      "imgUrl": "https://chomeocanh.com/wp-content/uploads/2023/11/Vay-cho-meo-1-400x400.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit explicabo ullam debitis, expedita eius velit fuga non iusto sint dolore iure adipisci magnam nihil quas consequatur aut vel ab suscipit!",
+      "id": 1
+    },
+    {
+      "name": "Váy phối màu classic",
+      "price": 200000,
+      "discountedPrice": 150000,
+      "imgUrl": "https://chomeocanh.com/wp-content/uploads/2023/11/Vay-cho-meo-1-400x400.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit explicabo ullam debitis, expedita eius velit fuga non iusto sint dolore iure adipisci magnam nihil quas consequatur aut vel ab suscipit!",
+      "id": 2
+    },
+    {
+      "name": "Váy phối màu classic",
+      "price": 200000,
+      "discountedPrice": 150000,
+      "imgUrl": "https://chomeocanh.com/wp-content/uploads/2023/11/Vay-cho-meo-1-400x400.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit explicabo ullam debitis, expedita eius velit fuga non iusto sint dolore iure adipisci magnam nihil quas consequatur aut vel ab suscipit!",
+      "id": 3
+    },
+    {
+      "name": "Váy phối màu classic",
+      "price": 200000,
+      "discountedPrice": 150000,
+      "imgUrl": "https://chomeocanh.com/wp-content/uploads/2023/11/Vay-cho-meo-1-400x400.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit explicabo ullam debitis, expedita eius velit fuga non iusto sint dolore iure adipisci magnam nihil quas consequatur aut vel ab suscipit!",
+      "id": 4
+    },
+    {
+      "name": "Váy phối màu classic",
+      "price": 200000,
+      "discountedPrice": 150000,
+      "imgUrl": "https://chomeocanh.com/wp-content/uploads/2023/11/Vay-cho-meo-1-400x400.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit explicabo ullam debitis, expedita eius velit fuga non iusto sint dolore iure adipisci magnam nihil quas consequatur aut vel ab suscipit!",
+      "id": 5
+    },
+    {
+      "name": "Váy phối màu classic",
+      "price": 200000,
+      "discountedPrice": 150000,
+      "imgUrl": "https://chomeocanh.com/wp-content/uploads/2023/11/Vay-cho-meo-1-400x400.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit explicabo ullam debitis, expedita eius velit fuga non iusto sint dolore iure adipisci magnam nihil quas consequatur aut vel ab suscipit!",
+      "id": 6
+    },
+    {
+      "name": "Váy phối màu classic",
+      "price": 200000,
+      "discountedPrice": 150000,
+      "imgUrl": "https://chomeocanh.com/wp-content/uploads/2023/11/Vay-cho-meo-1-400x400.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit explicabo ullam debitis, expedita eius velit fuga non iusto sint dolore iure adipisci magnam nihil quas consequatur aut vel ab suscipit!",
+      "id": 7
+    },
+    {
+      "name": "Váy phối màu classic",
+      "price": 200000,
+      "discountedPrice": 150000,
+      "imgUrl": "https://chomeocanh.com/wp-content/uploads/2023/11/Vay-cho-meo-1-400x400.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit explicabo ullam debitis, expedita eius velit fuga non iusto sint dolore iure adipisci magnam nihil quas consequatur aut vel ab suscipit!",
+      "id": 8
+    },
+    {
+      "name": "Váy phối màu classic",
+      "price": 200000,
+      "discountedPrice": 150000,
+      "imgUrl": "https://chomeocanh.com/wp-content/uploads/2023/11/Vay-cho-meo-1-400x400.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit explicabo ullam debitis, expedita eius velit fuga non iusto sint dolore iure adipisci magnam nihil quas consequatur aut vel ab suscipit!",
+      "id": 9
+    },
+    {
+      "name": "Váy phối màu classic",
+      "price": 200000,
+      "discountedPrice": 150000,
+      "imgUrl": "https://chomeocanh.com/wp-content/uploads/2023/11/Vay-cho-meo-1-400x400.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit explicabo ullam debitis, expedita eius velit fuga non iusto sint dolore iure adipisci magnam nihil quas consequatur aut vel ab suscipit!",
+      "id": 10
+    },
+    {
+      "name": "Váy phối màu classic",
+      "price": 200000,
+      "discountedPrice": 150000,
+      "imgUrl": "https://chomeocanh.com/wp-content/uploads/2023/11/Vay-cho-meo-1-400x400.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit explicabo ullam debitis, expedita eius velit fuga non iusto sint dolore iure adipisci magnam nihil quas consequatur aut vel ab suscipit!",
+      "id": 11
+    },
+    {
+      "name": "Váy phối màu classic",
+      "price": 200000,
+      "discountedPrice": 150000,
+      "imgUrl": "https://chomeocanh.com/wp-content/uploads/2023/11/Vay-cho-meo-1-400x400.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit explicabo ullam debitis, expedita eius velit fuga non iusto sint dolore iure adipisci magnam nihil quas consequatur aut vel ab suscipit!",
+      "id": 12
+    }
+  ]
+}
