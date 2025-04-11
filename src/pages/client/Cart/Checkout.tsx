@@ -451,8 +451,7 @@ const Checkout = () => {
                             if (dataPayment) {
                                 const resVNPay = await createPaymentVnPay(dataPayment);
                                 // console.log(resVNPay)
-                                console.log("Redirect tới VNPAY:", resVNPay?.data?.redirectUrl);
-                                // window.location.href = resVNPay?.data?.redirectUrl;
+                                window.location.href = resVNPay?.data;
                                 // window.open(resVNPay.data);
                             }
                         }
